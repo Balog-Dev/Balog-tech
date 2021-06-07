@@ -1,0 +1,104 @@
+.deep{
+    background-image: url('./image/privacy.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+.techh{
+    font-size: 30px;
+
+}
+ul{
+    display: flex;
+
+}
+li{
+    margin-right: 10px;
+    list-style: none;
+}
+.LOVE{
+    
+    justify-content: space-between;
+}
+.des{
+    color: darkgray;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+    padding-top: 11rem;
+    padding-left: 70px;
+    
+}
+.dig{
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 70px;
+}
+.container-fluid {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-brand{
+    color: blue;
+}
+.flex-header{
+    background-image: url('./image/blue3.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   color: #fff;
+   display: flex;
+   justify-content: space-between;
+}
+.index{
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.balo{
+    font-size: 20px;
+    padding-left: 100px;
+
+}
+.let{
+    font-size: 17px;
+    padding-top: 20px;
+    padding-left: 100px;
+
+}
+.logo{
+    padding-right: 20rem;
+
+}
+.parent{
+    justify-content: space-between;
+}
+.loan{
+    background-image: url('./image/orange.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   color: blue;
+   font-size: 20px;
+   justify-content: space-between;
+   padding-top: 60px;
+   display: flex;
+}
+.load{
+    width: 50rem;
+    height: 30rem;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+.len{
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+
+    
+
+
+
